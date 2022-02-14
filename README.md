@@ -1,4 +1,5 @@
 # iORI-Epi: A machine learning-based method for predicting human replication origin sites from epigenomics and chromatin interaction data
+[Fig 1.pdf](https://github.com/linDing-group/iORI-Epi/files/8058735/Fig.1.pdf)
 
 
 **Overview**
