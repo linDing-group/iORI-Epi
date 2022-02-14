@@ -20,7 +20,7 @@ To run the scripts, you need several R packages. To install the packages:
 
 **Usage**
 
-There are two main folders: 
+There are three main folders: 
 - The folder "data" contains ORI data from human myeloid erythroleukemia K562 cell and breast cancer MCF-7 cell. 
 1. Subfolder "ORI" contains K562 ORI data(train dataset, validation dataset, enhancer dataset, and promoter dataset) and MCF-7 data(train dataset with positive and negatuve samples).
 2. Subfolder "EpiBed" contains K562 83 Chip-seq data and MCF-7 13 Chip-seq data, which were used to extracted epigenomic marks features.
