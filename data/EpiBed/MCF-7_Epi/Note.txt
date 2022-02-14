@@ -1,0 +1,3 @@
+The 83 Chip-seq data of K562 and 13 Chip-seq data can be download from ENCODE.
+
+If you want these files, please contact fydao@std.uestc.edu.cn.
