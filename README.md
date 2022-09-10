@@ -1,5 +1,5 @@
 # Accurate Identification of DNA Replication Origin by Fusing Epigenomics and Chromatin Interaction Information
-![alt text](https://github.com/linDing-group/iORI-Epi/workflow.png)
+![image](workflow.png)
 
 **Overview**
 
