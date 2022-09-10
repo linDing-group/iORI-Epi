@@ -1,7 +1,7 @@
 # Accurate Identification of DNA Replication Origin by Fusing Epigenomics and Chromatin Interaction Information
-![image](workflow.png)
 
 **Overview**
+![image](workflow.png)
 
 We devised a computational approach to predict replication origin sites (ORIs) using the  epigenomic marks, DNA motifs, and chromatin loops.
 
